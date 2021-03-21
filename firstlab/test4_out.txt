@@ -1,0 +1,10 @@
+procs in queue:
+pname: kernel_process, pid: 1024, ppid: 1024, priority: 0, state: RUNNABLE
+pname: Coletta, pid: 1029, ppid: 1028, priority: 1, state: EMBRYO
+pname: Jeremy, pid: 1028, ppid: 1025, priority: 7, state: EMBRYO
+pname: Emily, pid: 1027, ppid: 1025, priority: 10, state: EMBRYO
+
+procname: Emily, pid: 1027
+procname: Emily, ppid: 1025
+procname: Gusty not found
+procname: Gusty not found

@@ -1,0 +1,5 @@
+fork Mike 2 kernel_process
+fork Sarah 3 Mike
+fork Matthew 1 Mike
+fork Beverly 2 Mike
+printprocs

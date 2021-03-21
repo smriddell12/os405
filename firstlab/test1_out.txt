@@ -1,0 +1,2 @@
+procs in queue:
+pname: kernel_process, pid: 1024, ppid: 1024, priority: 0, state: RUNNABLE

@@ -1,0 +1,8 @@
+fork Gusty 5 kernel_process
+fork Zac 3 Gusty
+fork Emily 10 Gusty
+fork Jeremy 7 Gusty
+fork Coletta 1 Jeremy
+kill Zac
+kill Gusty
+printprocs

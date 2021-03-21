@@ -1,0 +1,7 @@
+fork Sarah 17 kernel_process
+fork Sam 6 Sarah
+fork Harry 5 Sarah
+fork Heather 2 Sam
+fork Adam 21 Heather
+kill Adam
+printprocs

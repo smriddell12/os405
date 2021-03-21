@@ -1,0 +1,7 @@
+fork Nana 5 kernel_process
+fork Beverly 3 Nana
+fork Sarah 1 Beverly
+fork Matthew 1 Beverly
+printprocs
+printpid Matthew
+printpid Sarah
